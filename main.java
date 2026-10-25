@@ -4,7 +4,9 @@ public class main
 	{
 		System.out.println("Введите А и В \n");
 		int A, B;
-		A = 3; B = 5;	
+		A = 3; B = 5;
+		System.out.println("А = " + A + "; В = " + B + " \n");
+		System.out.println("Сумма А и В = " + (A + B) + "\n");
 	}
 }
 
