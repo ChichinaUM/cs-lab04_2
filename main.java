@@ -7,6 +7,7 @@ public class main
 		A = 3; B = 5;
 		System.out.println("А = " + A + "; В = " + B + " \n");
 		System.out.println("Сумма А и В = " + (A + B) + "\n");
+		System.out.println("Разность А и В = " + (A - B) + "\n");
 	}
 }
 
