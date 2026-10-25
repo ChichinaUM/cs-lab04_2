@@ -8,6 +8,7 @@ public class main
 		System.out.println("А = " + A + "; В = " + B + " \n");
 		System.out.println("Сумма А и В = " + (A + B) + "\n");
 		System.out.println("Разность А и В = " + (A - B) + "\n");
+		System.out.println("Произведение А и В = " + (A * B) + "\n");
 	}
 }
 
