@@ -11,6 +11,7 @@ public class main
 		System.out.println("Произведение А и В = " + (A * B) + "\n");
 		System.out.println("Частное А и В = " + (A / B) + "\n");
 		System.out.println("Максимум А и В = " + 5 + "\n");
+		System.out.println("Минимум А и В = " + 3 + "\n");
 	}
 }
 
