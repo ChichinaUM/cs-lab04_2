@@ -10,6 +10,7 @@ public class main
 		System.out.println("Разность А и В = " + (A - B) + "\n");
 		System.out.println("Произведение А и В = " + (A * B) + "\n");
 		System.out.println("Частное А и В = " + (A / B) + "\n");
+		System.out.println("Максимум А и В = " + 5 + "\n");
 	}
 }
 
